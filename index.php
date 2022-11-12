@@ -283,6 +283,15 @@
 				<div class="section-title saas-title">
 					<h2>Choose Your plan</h2>
 					<p>Get expert consultation, setup assistance and a 24 x 7 available support. Improve the Efficiency of your business and enhance your sales and support.</p>
+					<div class="single-footer-widget">
+					<ul class="address">
+								<li style="text-align: left;color: #4a4444;">On Payment gateway, Third party Integration, Onetime setup
+ - Any other customization, will be done as per actuals</li>
+ <li style="text-align: left;color: #4a4444;">On Technical Support
+
+ - Any other customization, will be done as per man hours</li>
+															</ul>
+							</div>
 				</div>
 
 				<div class="tab">
@@ -313,6 +322,11 @@
 											Yearly
 										</a>
 									</li>
+									<li>
+										<a href="#">
+											Life Time*
+										</a>
+									</li>
 								</ul>
 							</div>
 						</div>
@@ -321,22 +335,22 @@
 							<div class="tab_content">
 								<div class="tabs_item">
 									<div class="row">
-										<div class="col-lg-3 col-sm-6">
+										<div class="col-lg-4 col-sm-6">
 											<div class="single-pricing">
 												<h3>Starter</h3>
 					
 												<div class="price">
-													<h2>₹2999
+													<h2>₹1999
 </h2>
 													<span>Per Month</span>
 												</div>
 					
-												<ul class="text-center">
+												<ul class="text-center">												 
 													<li>5 Users</li>
 													<li>2500 Customers</li>
 													<li>5 Deal Stages</li>
-													<li>5 Mail Template</li>
-													<li>5 SMS Template</li>
+													<li>5 Mail Templates</li>
+													<li>5 SMS Templates</li>
 													<li>5 Landing Pages</li>
 													<li>5 Products</li>
 													<li>1 Payment Gateway</li>
@@ -384,20 +398,21 @@
 														Server Procurement
 														<span ><img class="img-close" src="assets/img/saas/close.png" alt="Image"></span></li>
 													<li>5GB Server Space</li>
+													<li>*Plus 18% GST Taxes</li>
 												</ul>
 					
-												<a href="#contact" class="default-btn">
+												<a href="#contact" class="default-btn saas-btn scroll-btn">
 													Read more
 												</a>
 											</div>
 										</div>
 					
-										<div class="col-lg-3 col-sm-6">
+										<div class="col-lg-4 col-sm-6">
 											<div class="single-pricing active">
 												<h3>Economy</h3>
 					
 												<div class="price">
-													<h2>₹4999</h2>
+													<h2>₹2999</h2>
 													<span>Per Month</span>
 												</div>
 					
@@ -405,8 +420,227 @@
 													<li>10 Users</li>
 													<li>5000 Customers</li>
 													<li>10 Deal Stages</li>
-													<li>10 Mail Template</li>
-													<li>10 SMS Template</li>
+													<li>10 Mail Templates</li>
+													<li>10 SMS Templates</li>
+													<li>10 Landing Pages</li>
+													<li>10 Products</li>
+													<li>2 Payment Gateways</li>
+							
+													<li>
+														Predefined Configurations 
+														<span ><img class="img-close" src="assets/img/saas/close.png" alt="Image"></span>
+													</li>
+													<li>
+														Bulk Upload
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													</li>
+													<li>
+														Announcements
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span></li>
+													<li>
+														Workflow Automation
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span></li>
+													<li>
+														Newsletter Subscription
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													<li>
+														Tasks
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													<li>
+														Activities
+														<span ><img class="img-close" src="assets/img/saas/close.png" alt="Image"></span>
+													</li>
+													<li>
+														Payment Tracking
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													</li>
+													<li>
+														Third Party Integration
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													<li>
+														Technical Support
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													</li>
+													<li>
+														OneTime Setup
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													</li>
+													<li>
+														Server Procurement
+														<span ><img class="img-close" src="assets/img/saas/close.png" alt="Image"></span></li>
+													<li>10GB Server Space</li>
+													<li>*Plus 18% GST Taxes</li>
+												</ul>
+					
+												<a href="#contact" class="default-btn saas-btn scroll-btn">
+													Read more
+												</a>
+					
+												<p>Popular</p>
+											</div>
+										</div>
+					
+										<div class="col-lg-4 col-sm-6 offset-sm-3 offset-lg-0">
+											<div class="single-pricing">
+												<h3>Premium</h3>
+					
+												<div class="price">
+													<h2>₹5997</h2>
+													<span>Per Month</span>
+												</div>
+					
+												<ul>
+													<li>100 Users</li>
+													<li>25000 Customers</li>
+													<li>20 Deal Stages</li>
+													<li>20 Mail Templates</li>
+													<li>20 SMS Templates</li>
+													<li>20 Landing Pages</li>
+													<li>20 Products</li>
+													<li>CCAvenue, RazorPay, Payu</li>
+							
+													<li>
+														Predefined Configurations 
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													</li>
+													<li>
+														Bulk Upload
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													</li>
+													<li>
+														Announcements
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span></li>
+													<li>
+														Workflow Automation
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span></li>
+													<li>
+														Newsletter Subscription
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													<li>
+														Tasks
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													<li>
+														Activities
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													</li>
+													<li>
+														Payment Tracking
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													</li>
+													<li>
+														Third Party Integration
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													<li>
+														Technical Support
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													</li>
+													<li>
+														OneTime Setup
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													</li>
+													<li>
+														Server Procurement
+														<span ><img class="img-close" src="assets/img/saas/close.png" alt="Image"></span></li>
+													<li> 20GB Server Space</li>
+													<li>*Plus 18% GST Taxes</li>
+												</ul>
+					
+												<a href="#contact" class="default-btn saas-btn scroll-btn">
+													Read more
+												</a>
+											</div>
+										</div>										
+									</div>
+								</div>
+	
+	<div class="tabs_item">
+									<div class="row">
+										<div class="col-lg-4 col-sm-6">
+											<div class="single-pricing">
+												<h3>Starter</h3>
+					
+												<div class="price">
+													<h2>₹4999</h2>
+													<span>Per Quarter</span>
+												</div>
+					
+												<ul class="text-center">												 
+													<li>5 Users</li>
+													<li>2500 Customers</li>
+													<li>5 Deal Stages</li>
+													<li>5 Mail Templates</li>
+													<li>5 SMS Templates</li>
+													<li>5 Landing Pages</li>
+													<li>5 Products</li>
+													<li>1 Payment Gateway</li>
+							
+													<li>
+														Predefined Configurations 
+														<span ><img class="img-close" src="assets/img/saas/close.png" alt="Image"></span>
+													</li>
+													<li>
+														Bulk Upload
+														<span ><img class="img-close" src="assets/img/saas/close.png" alt="Image"></span>
+													</li>
+													<li>
+														Announcements
+														<span ><img class="img-close" src="assets/img/saas/close.png" alt="Image"></span></li>
+													<li>
+														Workflow Automation
+														<span ><img class="img-close" src="assets/img/saas/close.png" alt="Image"></span></li>
+													<li>
+														Newsletter Subscription
+														<span ><img class="img-close" src="assets/img/saas/close.png" alt="Image"></span></li>
+													<li>
+														Tasks
+														<span ><img class="img-close" src="assets/img/saas/close.png" alt="Image"></span></li>
+													<li>
+														Activities
+														<span ><img class="img-close" src="assets/img/saas/close.png" alt="Image"></span>
+													</li>
+													<li>
+														Payment Tracking
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													</li>
+													<li>
+														Third Party Integration
+														<span ><img class="img-close" src="assets/img/saas/close.png" alt="Image"></span></li>
+													<li>
+														Technical Support
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													</li>
+													<li>
+														OneTime Setup
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													</li>
+													<li>
+														Server Procurement
+														<span ><img class="img-close" src="assets/img/saas/close.png" alt="Image"></span></li>
+													<li>5GB Server Space</li>
+													<li>*Plus 18% GST Taxes</li>
+												</ul>
+					
+												<a href="#contact" class="default-btn saas-btn scroll-btn">
+													Read more
+												</a>
+											</div>
+										</div>
+					
+										<div class="col-lg-4 col-sm-6">
+											<div class="single-pricing active">
+												<h3>Economy</h3>
+					
+												<div class="price">
+													<h2>₹7499</h2>
+													<span>Per Quarter</span>
+												</div>
+					
+												<ul>
+													<li>10 Users</li>
+													<li>5000 Customers</li>
+													<li>10 Deal Stages</li>
+													<li>10 Mail Templates</li>
+													<li>10 SMS Templates</li>
 													<li>10 Landing Pages</li>
 													<li>10 Products</li>
 													<li>2 Payment Gateway</li>
@@ -454,9 +688,10 @@
 														Server Procurement
 														<span ><img class="img-close" src="assets/img/saas/close.png" alt="Image"></span></li>
 													<li>10GB Server Space</li>
+													<li>*Plus 18% GST Taxes</li>
 												</ul>
 					
-												<a href="#Contact" class="default-btn">
+												<a href="#contact" class="default-btn saas-btn scroll-btn">
 													Read more
 												</a>
 					
@@ -464,13 +699,13 @@
 											</div>
 										</div>
 					
-										<div class="col-lg-3 col-sm-6 offset-sm-3 offset-lg-0">
+										<div class="col-lg-4 col-sm-6 offset-sm-3 offset-lg-0">
 											<div class="single-pricing">
 												<h3>Premium</h3>
 					
 												<div class="price">
-													<h2>₹14999</h2>
-													<span>Per Month</span>
+													<h2>₹14997</h2>
+													<span>Per Quarter</span>
 												</div>
 					
 												<ul>
@@ -526,95 +761,27 @@
 														Server Procurement
 														<span ><img class="img-close" src="assets/img/saas/close.png" alt="Image"></span></li>
 													<li> 20GB Server Space</li>
+													<li>*Plus 18% GST Taxes</li>
 												</ul>
 					
-												<a href="#Contact" class="default-btn">
+												<a href="#contact" class="default-btn saas-btn scroll-btn">
 													Read more
 												</a>
 											</div>
 										</div>
-										<div class="col-lg-3 col-sm-6 offset-sm-3 offset-lg-0">
-											<div class="single-pricing">
-												<h3>Enterprise</h3>
-					
-												<div class="price">
-													<h2>₹24999
-</h2>
-													<span>Per Month</span>
-												</div>
-					
-												<ul>
-													<li>Unlimited Users</li>
-													<li>Unlimited Customers</li>
-													<li>Unlimited Deal Stages</li>
-													<li>Unlimited Mail Template</li>
-													<li>Unlimited SMS Template</li>
-													<li>Unlimited Landing Pages</li>
-													<li>Unlimited Products</li>
-													<li>CCAvenue, RazorPay, Payu</li>
-							
-													<li>
-														Predefined Configurations 
-														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
-													</li>
-													<li>
-														Bulk Upload
-														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
-													</li>
-													<li>
-														Announcements
-														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span></li>
-													<li>
-														Workflow Automation
-														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span></li>
-													<li>
-														Newsletter Subscription
-														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
-													<li>
-														Tasks
-														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
-													<li>
-														Activities
-														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
-													</li>
-													<li>
-														Payment Tracking
-														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
-													</li>
-													<li>
-														Third Party Integration
-														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
-													<li>
-														Technical Support
-														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
-													</li>
-													<li>
-														OneTime Setup
-														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
-													</li>
-													<li>
-														Server Procurement
-														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
-													<li> Server from Customer</li>
-												</ul>
-					
-												<a href="#Contact" class="default-btn">
-													Read more
-												</a>
-											</div>
-										</div>
+										
 									</div>
 								</div>
 	
 								<div class="tabs_item">
 									<div class="row">
-										<div class="col-lg-3 col-sm-6">
+										<div class="col-lg-4 col-sm-6">
 											<div class="single-pricing">
 												<h3>Starter</h3>
 					
 												<div class="price">
-													<h2>$35988</h2>
-													<span>Per year</span>
+													<h2>₹8999</h2>
+													<span>Half-yearly</span>
 												</div>
 					
 												<ul class="text-center">
@@ -670,20 +837,21 @@
 														Server Procurement
 														<span ><img class="img-close" src="assets/img/saas/close.png" alt="Image"></span></li>
 													<li>5GB Server Space</li>
+													<li>*Plus 18% GST Taxes</li>
 												</ul>
 					
-												<a href="#Contact" class="default-btn">
+												<a href="#contact" class="default-btn saas-btn scroll-btn">
 													Read more
 												</a>
 											</div>
 										</div>
 					
-										<div class="col-lg-3 col-sm-6">
+										<div class="col-lg-4 col-sm-6">
 											<div class="single-pricing active">
 												<h3>Economy</h3>
 					
 												<div class="price">
-													<h2>$59988</h2>
+													<h2>₹13499</h2>
 													<span>Per year</span>
 												</div>
 					
@@ -740,9 +908,10 @@
 														Server Procurement
 														<span ><img class="img-close" src="assets/img/saas/close.png" alt="Image"></span></li>
 													<li>10GB Server Space</li>
+													<li>*Plus 18% GST Taxes</li>
 												</ul>
 					
-												<a href="#Contact" class="default-btn">
+												<a href="#contact" class="default-btn saas-btn scroll-btn">
 													Read more
 												</a>
 					
@@ -750,12 +919,12 @@
 											</div>
 										</div>
 					
-										<div class="col-lg-3 col-sm-6 offset-sm-3 offset-lg-0">
+										<div class="col-lg-4 col-sm-6 offset-sm-3 offset-lg-0">
 											<div class="single-pricing">
 												<h3>Premium</h3>
 					
 												<div class="price">
-													<h2>$179988</h2>
+													<h2>₹26997</h2>
 													<span>Per year</span>
 												</div>
 					
@@ -812,29 +981,253 @@
 														Server Procurement
 														<span ><img class="img-close" src="assets/img/saas/close.png" alt="Image"></span></li>
 													<li> 20GB Server Space</li>
+													<li>*Plus 18% GST Taxes</li>
 												</ul>
 					
-												<a href="#Contact" class="default-btn">
+												<a href="#contact" class="default-btn saas-btn scroll-btn">
 													Read more
 												</a>
 											</div>
 										</div>
+									</div>
+								</div>
+								
+								<div class="tabs_item">
+									<div class="row">
+										<div class="col-lg-4 col-sm-6">
+											<div class="single-pricing">
+												<h3>Starter</h3>
+					
+												<div class="price">
+													<h2>₹15999</h2>
+													<span>Per year</span>
+												</div>
+					
+												<ul class="text-center">
+													<li>5 Users</li>
+													<li>2500 Customers</li>
+													<li>5 Deal Stages</li>
+													<li>5 Mail Template</li>
+													<li>5 SMS Template</li>
+													<li>5 Landing Pages</li>
+													<li>5 Products</li>
+													<li>1 Payment Gateway</li>
+							
+													<li>
+														Predefined Configurations 
+														<span ><img class="img-close" src="assets/img/saas/close.png" alt="Image"></span>
+													</li>
+													<li>
+														Bulk Upload
+														<span ><img class="img-close" src="assets/img/saas/close.png" alt="Image"></span>
+													</li>
+													<li>
+														Announcements
+														<span ><img class="img-close" src="assets/img/saas/close.png" alt="Image"></span></li>
+													<li>
+														Workflow Automation
+														<span ><img class="img-close" src="assets/img/saas/close.png" alt="Image"></span></li>
+													<li>
+														Newsletter Subscription
+														<span ><img class="img-close" src="assets/img/saas/close.png" alt="Image"></span></li>
+													<li>
+														Tasks
+														<span ><img class="img-close" src="assets/img/saas/close.png" alt="Image"></span></li>
+													<li>
+														Activities
+														<span ><img class="img-close" src="assets/img/saas/close.png" alt="Image"></span>
+													</li>
+													<li>
+														Payment Tracking
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													</li>
+													<li>
+														Third Party Integration
+														<span ><img class="img-close" src="assets/img/saas/close.png" alt="Image"></span></li>
+													<li>
+														Technical Support
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													</li>
+													<li>
+														OneTime Setup
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													</li>
+													<li>
+														Server Procurement
+														<span ><img class="img-close" src="assets/img/saas/close.png" alt="Image"></span></li>
+													<li>5GB Server Space</li>
+													<li>*Plus 18% GST Taxes</li>
+												</ul>
+					
+												<a href="#contact" class="default-btn saas-btn scroll-btn">
+													Read more
+												</a>
+											</div>
+										</div>
+					
+										<div class="col-lg-4 col-sm-6">
+											<div class="single-pricing active">
+												<h3>Economy</h3>
+					
+												<div class="price">
+													<h2>₹23999</h2>
+													<span>Per year</span>
+												</div>
+					
+												<ul>
+													<li>10 Users</li>
+													<li>5000 Customers</li>
+													<li>10 Deal Stages</li>
+													<li>10 Mail Template</li>
+													<li>10 SMS Template</li>
+													<li>10 Landing Pages</li>
+													<li>10 Products</li>
+													<li>2 Payment Gateway</li>
+							
+													<li>
+														Predefined Configurations 
+														<span ><img class="img-close" src="assets/img/saas/close.png" alt="Image"></span>
+													</li>
+													<li>
+														Bulk Upload
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													</li>
+													<li>
+														Announcements
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span></li>
+													<li>
+														Workflow Automation
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span></li>
+													<li>
+														Newsletter Subscription
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													<li>
+														Tasks
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													<li>
+														Activities
+														<span ><img class="img-close" src="assets/img/saas/close.png" alt="Image"></span>
+													</li>
+													<li>
+														Payment Tracking
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													</li>
+													<li>
+														Third Party Integration
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													<li>
+														Technical Support
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													</li>
+													<li>
+														OneTime Setup
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													</li>
+													<li>
+														Server Procurement
+														<span ><img class="img-close" src="assets/img/saas/close.png" alt="Image"></span></li>
+													<li>10GB Server Space</li>
+													<li>*Plus 18% GST Taxes</li>
+												</ul>
+					
+												<a href="#contact" class="default-btn saas-btn scroll-btn">
+													Read more
+												</a>
+					
+												<p>Popular</p>
+											</div>
+										</div>
+					
+										<div class="col-lg-4 col-sm-6 offset-sm-3 offset-lg-0">
+											<div class="single-pricing">
+												<h3>Premium</h3>
+					
+												<div class="price">
+													<h2>₹47997</h2>
+													<span>Per year</span>
+												</div>
+					
+												<ul>
+													<li>100 Users</li>
+													<li>25000 Customers</li>
+													<li>20 Deal Stages</li>
+													<li>20 Mail Template</li>
+													<li>20 SMS Template</li>
+													<li>20 Landing Pages</li>
+													<li>20 Products</li>
+													<li>CCAvenue, RazorPay, Payu</li>
+							
+													<li>
+														Predefined Configurations 
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													</li>
+													<li>
+														Bulk Upload
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													</li>
+													<li>
+														Announcements
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span></li>
+													<li>
+														Workflow Automation
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span></li>
+													<li>
+														Newsletter Subscription
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													<li>
+														Tasks
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													<li>
+														Activities
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													</li>
+													<li>
+														Payment Tracking
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													</li>
+													<li>
+														Third Party Integration
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													<li>
+														Technical Support
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													</li>
+													<li>
+														OneTime Setup
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													</li>
+													<li>
+														Server Procurement
+														<span ><img class="img-close" src="assets/img/saas/close.png" alt="Image"></span></li>
+													<li> 20GB Server Space</li>
+													
+													<li>*Plus 18% GST Taxes</li>
 
-										<div class="col-lg-3 col-sm-6 offset-sm-3 offset-lg-0">
+												</ul>
+					
+												<a href="#contact" class="default-btn saas-btn scroll-btn">
+													Read more
+												</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="tabs_item">
+									<div class="row"><div class="col-lg-3 col-sm-6 offset-sm-3">
 											<div class="single-pricing">
 												<h3>Enterprise</h3>
 					
 												<div class="price">
-													<h2>Contact Sales</h2>
-													<span>for best price</span>
+													<h2>Reach Us</h2>
+													<span>for sales</span>
 												</div>
 					
 												<ul>
 													<li>Unlimited Users</li>
 													<li>Unlimited Customers</li>
 													<li>Unlimited Deal Stages</li>
-													<li>Unlimited Mail Template</li>
-													<li>Unlimited SMS Template</li>
+													<li>Unlimited Mail Templates</li>
+													<li>Unlimited SMS Templates</li>
 													<li>Unlimited Landing Pages</li>
 													<li>Unlimited Products</li>
 													<li>CCAvenue, RazorPay, Payu</li>
@@ -882,15 +1275,15 @@
 														Server Procurement
 														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
 													<li> Server from Customer</li>
+													<li>*Plus 18% GST Taxes</li>
 												</ul>
 					
-												<a href="#Contact" class="default-btn">
+												<a href="#contact" class="default-btn saas-btn scroll-btn">
 													Read more
 												</a>
 											</div>
+										</div>	</div>
 										</div>
-									</div>
-								</div>
 							</div>
 						</div>
 					</div>
@@ -1334,21 +1727,35 @@
 								</li>
 								<li>Mon - Sat: 08:00 AM - 6:00 PM</li>
 							</ul>
+							<div class="social-area pt-20"">
+								<ul>
+									<li>
+										<a href="https://twitter.com/Phxtechnologies" target="_blank">
+											<i class="bx bxl-twitter"></i>
+										</a>
+									</li>
+									<li>
+										<a href="https://www.instagram.com/phoenixtechnologies2022/" target="_blank">
+											<i class="bx bxl-instagram"></i>
+										</a>
+									</li>
+									<li>
+										<a href="https://www.facebook.com/profile.php?id=100078429193284" target="_blank">
+											<i class="bx bxl-facebook"></i>
+										</a>
+									</li>									 
+								</ul>
+							</div>
 						</div>
 					</div>
 
 					 <div class="col-lg-4 col-md-6">
 						<div class="single-footer-widget">
+						<h3>Find us</h3>
 							 <div style="width: 100%"><iframe width="100%" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=450&amp;hl=en&amp;q=No:%20W5,%205th%20Main%20Road,%20Anna%20Nagar,%20Chennai%20-%20600040+(My%20Business%20Name)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" loading="lazy"></iframe></div>
 						</div>
 					</div>
-
-
-					<div class="col-lg-3 col-md-6">
-						<div class="single-footer-widget">
-							 
-						</div>
-					</div>
+				 
 				</div>
 			</div>
 		</section>
@@ -1480,9 +1887,9 @@
 		<script src="assets/js/custom.js"></script>
 
 		<script>
-			$(document).ready(function () {
+			₹(document).ready(function () {
 
-$("#contactform").validate({
+₹("#contactform").validate({
 	ignore: ":hidden",
 	rules: {
 		name: {
@@ -1507,10 +1914,10 @@ $("#contactform").validate({
 		}
 	},
 	submitHandler: function (form) {
-		$.ajax({
+		₹.ajax({
 			type: "POST",
 			url: "function.php",
-			data: $(form).serialize(),
+			data: ₹(form).serialize(),
 			success: function (res) {
 				console.log( res )
 			}
