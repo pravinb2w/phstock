@@ -2031,10 +2031,10 @@ Saas Pricing Area Style
 }
 
 .price-tab .tabs li {
-  display: inline-block;
-  padding: 0 10px;
-  font-size: 16px;
-  font-weight: 600;
+display: inline-block;
+    padding: 0 4px;
+    font-size: 15px;
+    font-weight: 500;
 }
 
 .price-tab .tabs li a {
