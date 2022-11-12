@@ -283,6 +283,20 @@
 				<div class="section-title saas-title">
 					<h2>Choose Your plan</h2>
 					<p>Get expert consultation, setup assistance and a 24 x 7 available support. Improve the Efficiency of your business and enhance your sales and support.</p>
+					<ul class="address">
+								<li>
+									* Any other customization, will be done as per actuals
+
+								</li>
+								<li>
+									* Any other customization, will be done as per manhours
+
+								</li>
+								<li>
+									* Any other customization, will be done as per actuals
+
+								</li>
+							</ul>
 				</div>
 
 				<div class="tab">
@@ -825,8 +839,7 @@
 												<h3>Enterprise</h3>
 					
 												<div class="price">
-													<h2>Contact Sales</h2>
-													<span>for best price</span>
+													<h2>Reach Us</h2>										
 												</div>
 					
 												<ul>
