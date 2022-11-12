@@ -1342,7 +1342,7 @@
 								</li>
 								<li>Mon - Sat: 08:00 AM - 6:00 PM</li>
 							</ul>
-							<div class="social-area">
+							<div class="class="social-area pt-20"">
 								<ul>
 									<li>
 										<a href="https://twitter.com/Phxtechnologies" target="_blank">
