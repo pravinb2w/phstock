@@ -1354,7 +1354,26 @@
 
 					<div class="col-lg-3 col-md-6">
 						<div class="single-footer-widget">
-							 
+							
+							<div class="social-area">
+								<ul>
+									<li>
+										<a href="https://twitter.com/Phxtechnologies" target="_blank">
+											<i class="bx bxl-twitter"></i>
+										</a>
+									</li>
+									<li>
+										<a href="https://www.instagram.com/phoenixtechnologies2022/" target="_blank">
+											<i class="bx bxl-instagram"></i>
+										</a>
+									</li>
+									<li>
+										<a href="https://www.facebook.com/profile.php?id=100078429193284" target="_blank">
+											<i class="bx bxl-facebook"></i>
+										</a>
+									</li>									 
+								</ul>
+							</div>
 						</div>
 					</div>
 				</div>
