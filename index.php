@@ -1218,9 +1218,8 @@
 												<h3>Enterprise</h3>
 					
 												<div class="price">
-													<h2>₹24999
-</h2>
-													<span>Per Month</span>
+													<h2>Reach Us</h2>
+													<span>for sales</span>
 												</div>
 					
 												<ul>
