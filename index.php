@@ -29,7 +29,7 @@
 		<!-- Favicon -->
 		<link rel="icon" type="image/png" href="assets/img/saas/favicon.png">
 		<!-- Title -->
-		<title>Esit - Multi-Purpose Landing Page Collection</title>
+		<title>Phoenix Technologies</title>
 
 		<!-- jQuery -->
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
