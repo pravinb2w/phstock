@@ -53,7 +53,7 @@
 		<!-- Start Navbar Area -->
         <nav class="navbar navbar-expand-lg saas-navbar">
            	<div class="container-fluid">
-				<a class="navbar-brand" href="#">
+				<a class="navbar-brand" style="width: 690px;" href="#">
 					<img src="assets/img/saas/logo.png" style="width: 35%;" alt="image">
 				</a>
 
@@ -1385,13 +1385,13 @@
 		<!-- Start Copy Right Area -->
 		<div class="copy-right saas-copy-right">
 			<div class="container">
-				<p>Copyright @2020 Esit. Designed <a href="https://envytheme.com/" target="blank">EnvyTheme</a></p>
+				<p>Copyright @2022 Phoenix Technologies.</p>
 			</div>
 		</div>
 		<!-- End Copy Right Area -->
 
 		<!-- Start Demos Area -->
-        <div class="demo-side-icon">
+        <div style="display:none;" class="demo-side-icon">
             <button type="button" class="modal-btn" data-toggle="modal" data-target="#myModalRightTwo">
                 <span>demos</span>
             </button>
