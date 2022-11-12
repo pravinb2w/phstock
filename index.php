@@ -1002,7 +1002,7 @@
 				<div class="row">
 					<div class="col-lg-3 col-sm-6">
 						<div class="single-counter">
-							<i class="flaticon-increase"></i>
+							<i class="flaticon-user-experience"></i>
 	
 							<h2>
 								<span class="odometer" data-count="2">00</span>
@@ -1028,7 +1028,7 @@
 
 					<div class="col-lg-3 col-sm-6">
 						<div class="single-counter">
-							<i class="flaticon-success"></i>
+							<i class="flaticon-consulting"></i>
 	
 							<h2>
 								<span class="odometer" data-count="15">00</span>
@@ -1041,7 +1041,7 @@
 
 					<div class="col-lg-3 col-sm-6">
 						<div class="single-counter">
-							<i class="flaticon-customer"></i>
+							<i class="flaticon-success-1"></i>
 	
 							<h2>
 								<span class="odometer" data-count="200000">00</span>
