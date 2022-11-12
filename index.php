@@ -1322,18 +1322,7 @@
 						</div>
 					</div>
 
-					<div class="col-lg-3 col-md-6">
-						<div class="single-footer-widget">
-							<h3>Twitter</h3>
-							<p class="twitter-text">Lorem ipsum dolor sittem amet ngcing elit sed eiusmoad <a href="#">www.esit.com</a> </p>
-
-							<div class="twitter">
-								<i class="flaticon-twitter"></i>
-								<span>Twitter</span>
-								<span>5 days ago</span>
-							</div>
-						</div>
-					</div>
+					 
 
 					<div class="col-lg-3 col-md-6">
 						<div class="single-footer-widget">
