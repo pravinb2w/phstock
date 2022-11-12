@@ -285,10 +285,12 @@
 					<p>Get expert consultation, setup assistance and a 24 x 7 available support. Improve the Efficiency of your business and enhance your sales and support.</p>
 					<div class="single-footer-widget">
 					<ul class="address">
-								<li>Any other customization, will be done as per actuals</li>
-								<li>Any other customization, will be done as per manhours</li>
-								<li>Any other customization, will be done as per actuals</li>
-							</ul>
+								<li style="text-align: left;">On Payment gateway, Third party Integration, Onetime setup
+ - Any other customization, will be done as per actuals</li>
+ <li style="text-align: left;">On Technical Support
+
+ - Any other customization, will be done as per man hours</li>
+															</ul>
 							</div>
 				</div>
 
