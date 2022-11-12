@@ -309,7 +309,7 @@
 							<div class="tab_content">
 								<div class="tabs_item">
 									<div class="row">
-										<div class="col-lg-4 col-sm-6">
+										<div class="col-lg-3 col-sm-6">
 											<div class="single-pricing">
 												<h3>Starter</h3>
 					
@@ -379,7 +379,7 @@
 											</div>
 										</div>
 					
-										<div class="col-lg-4 col-sm-6">
+										<div class="col-lg-3 col-sm-6">
 											<div class="single-pricing active">
 												<h3>Economy</h3>
 					
@@ -451,7 +451,7 @@
 											</div>
 										</div>
 					
-										<div class="col-lg-4 col-sm-6 offset-sm-3 offset-lg-0">
+										<div class="col-lg-3 col-sm-6 offset-sm-3 offset-lg-0">
 											<div class="single-pricing">
 												<h3>Premium</h3>
 					
@@ -520,7 +520,7 @@
 												</a>
 											</div>
 										</div>
-										<div class="col-lg-4 col-sm-6 offset-sm-3 offset-lg-0">
+										<div class="col-lg-3 col-sm-6 offset-sm-3 offset-lg-0">
 											<div class="single-pricing">
 												<h3>Enterprise</h3>
 					
@@ -594,7 +594,7 @@
 	
 								<div class="tabs_item">
 									<div class="row">
-										<div class="col-lg-4 col-sm-6">
+										<div class="col-lg-3 col-sm-6">
 											<div class="single-pricing">
 												<h3>Started</h3>
 					
@@ -664,7 +664,7 @@
 											</div>
 										</div>
 					
-										<div class="col-lg-4 col-sm-6">
+										<div class="col-lg-3 col-sm-6">
 											<div class="single-pricing active">
 												<h3>Economy</h3>
 					
@@ -736,7 +736,7 @@
 											</div>
 										</div>
 					
-										<div class="col-lg-4 col-sm-6 offset-sm-3 offset-lg-0">
+										<div class="col-lg-3 col-sm-6 offset-sm-3 offset-lg-0">
 											<div class="single-pricing">
 												<h3>Premium</h3>
 					
@@ -806,7 +806,7 @@
 											</div>
 										</div>
 
-										<div class="col-lg-4 col-sm-6 offset-sm-3 offset-lg-0">
+										<div class="col-lg-3 col-sm-6 offset-sm-3 offset-lg-0">
 											<div class="single-pricing">
 												<h3>Enterprise</h3>
 					
