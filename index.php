@@ -1212,6 +1212,78 @@
 										</div>
 									</div>
 								</div>
+								<div class="tabs_item">
+									<div class="row"><div class="col-lg-3 col-sm-6 offset-sm-3 offset-lg-0">
+											<div class="single-pricing">
+												<h3>Enterprise</h3>
+					
+												<div class="price">
+													<h2>₹24999
+</h2>
+													<span>Per Month</span>
+												</div>
+					
+												<ul>
+													<li>Unlimited Users</li>
+													<li>Unlimited Customers</li>
+													<li>Unlimited Deal Stages</li>
+													<li>Unlimited Mail Templates</li>
+													<li>Unlimited SMS Templates</li>
+													<li>Unlimited Landing Pages</li>
+													<li>Unlimited Products</li>
+													<li>CCAvenue, RazorPay, Payu</li>
+							
+													<li>
+														Predefined Configurations 
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													</li>
+													<li>
+														Bulk Upload
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													</li>
+													<li>
+														Announcements
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span></li>
+													<li>
+														Workflow Automation
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span></li>
+													<li>
+														Newsletter Subscription
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													<li>
+														Tasks
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													<li>
+														Activities
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													</li>
+													<li>
+														Payment Tracking
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													</li>
+													<li>
+														Third Party Integration
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													<li>
+														Technical Support
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													</li>
+													<li>
+														OneTime Setup
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													</li>
+													<li>
+														Server Procurement
+														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
+													<li> Server from Customer</li>
+												</ul>
+					
+												<a href="#contact" class="default-btn saas-btn scroll-btn">
+													Read more
+												</a>
+											</div>
+										</div>	</div>
+										</div>
 							</div>
 						</div>
 					</div>
