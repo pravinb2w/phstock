@@ -283,6 +283,7 @@
 				<div class="section-title saas-title">
 					<h2>Choose Your plan</h2>
 					<p>Get expert consultation, setup assistance and a 24 x 7 available support. Improve the Efficiency of your business and enhance your sales and support.</p>
+					<div class="single-footer-widget">
 					<ul class="address">
 								<li>
 									* Any other customization, will be done as per actuals
@@ -297,6 +298,7 @@
 
 								</li>
 							</ul>
+							</div>
 				</div>
 
 				<div class="tab">
