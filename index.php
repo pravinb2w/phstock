@@ -31,12 +31,6 @@
 		<!-- Title -->
 		<title>Phoenix Technologies</title>
 
-		<!-- jQuery -->
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-		<!-- Toastr -->
-		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css">
-		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.5/jquery.validate.min.js"></script>
 	</head>
 
     <body id="home" data-spy="scroll" data-offset="70" class="saas-body-color">
@@ -1620,8 +1614,8 @@
 									</div>
 			
 									<div class="col-lg-12 col-md-12">
-										<button type="submit" class="default-btn saas-btn">
-											Send message
+										<button type="submit" class="default-btn saas-btn" id="send-btn">
+											Send Message
 										</button>
 										<div id="msgSubmit" class="h3 text-center hidden"></div>
 										<div class="clearfix"></div>
@@ -1887,9 +1881,9 @@
 		<script src="assets/js/custom.js"></script>
 
 		<script>
-			₹(document).ready(function () {
+			$(document).ready(function () {
 
-₹("#contactform").validate({
+$("#contactform").validate({
 	ignore: ":hidden",
 	rules: {
 		name: {
@@ -1914,11 +1908,16 @@
 		}
 	},
 	submitHandler: function (form) {
-		₹.ajax({
+		$.ajax({
 			type: "POST",
 			url: "function.php",
-			data: ₹(form).serialize(),
+			data: $(form).serialize(),
+			beforeSend:function() {
+				$('#send-btn').html('Submitting...');
+			},
 			success: function (res) {
+				$('#send-btn').html('Send Message');
+
 				console.log( res )
 			}
 		});

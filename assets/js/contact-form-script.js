@@ -29,6 +29,9 @@
             type: "POST",
             url: "function.php",
             data: "name=" + name + "&email=" + email + "&msg_subject=" + msg_subject + "&phone_number=" + phone_number + "&message=" + message,
+            beforeSend:function() {
+				$('#send-btn').html('Submitting...');
+			},
             success : function(text){
                 if (text == "success"){
                     formSuccess();
@@ -36,6 +39,7 @@
                     formError();
                     submitMSG(false,text);
                 }
+                $('#send-btn').html('Send Message');
             }
         });
     }

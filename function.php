@@ -18,7 +18,7 @@ if( isset( $_POST ) && !empty( $_POST ) ) {
     $body_message  .= '<tr>Message: '.$message.'</tr>';
     
     try {
-        $mail->SMTPDebug = 1;									
+        $mail->SMTPDebug = FALSE;									
         $mail->isSMTP();											
         $mail->Host	 = 'smtp.gmail.com';					
         $mail->SMTPAuth = true;							
