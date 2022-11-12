@@ -997,7 +997,7 @@
 		<!-- End Testimonial Area -->
 		
 		<!-- Start Counter Area -->
-		<!-- <section class="counter-area saas-counter-area pt-100 pb-70">
+		<section class="counter-area saas-counter-area pt-100 pb-70">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-3 col-sm-6">
@@ -1005,11 +1005,11 @@
 							<i class="flaticon-increase"></i>
 	
 							<h2>
-								<span class="odometer" data-count="15">00</span>
+								<span class="odometer" data-count="2">00</span>
 								<span class="target">+</span>
 							</h2>
 	
-							<p>Years IT business</p>
+							<p>Location</p>
 						</div>
 					</div>
 
@@ -1018,11 +1018,11 @@
 							<i class="flaticon-success-1"></i>
 	
 							<h2>
-								<span class="odometer" data-count="200">00</span>
+								<span class="odometer" data-count="40">00</span>
 								<span class="target">+</span>
 							</h2>
 	
-							<p>Successful projects</p>
+							<p>Team</p>
 						</div>
 					</div>
 
@@ -1031,11 +1031,11 @@
 							<i class="flaticon-customer"></i>
 	
 							<h2>
-								<span class="odometer" data-count="150">00</span>
+								<span class="odometer" data-count="15">00</span>
 								<span class="target">+</span>
 							</h2>
 	
-							<p>Clients served globally</p>
+							<p>Years of Experience</p>
 						</div>
 					</div>
 
@@ -1044,16 +1044,16 @@
 							<i class="flaticon-success"></i>
 	
 							<h2>
-								<span class="odometer" data-count="99">00</span>
+								<span class="odometer" data-count="200000">00</span>
 								<span class="target">%</span>
 							</h2>
 	
-							<p>Success rate</p>
+							<p>Members</p>
 						</div>
 					</div>
 				</div>
 			</div>
-		</section> -->
+		</section> 
 		<!-- End Counter Area -->
 
 		<!-- Start Blog Area -->
