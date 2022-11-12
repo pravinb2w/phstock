@@ -1213,7 +1213,7 @@
 									</div>
 								</div>
 								<div class="tabs_item">
-									<div class="row"><div class="col-lg-3 col-sm-6 offset-sm-3 offset-lg-0">
+									<div class="row"><div class="col-lg-3 col-sm-6 offset-sm-3">
 											<div class="single-pricing">
 												<h3>Enterprise</h3>
 					
@@ -1276,6 +1276,7 @@
 														Server Procurement
 														<span ><img class="img-check-mark" src="assets/img/saas/check-mark.png" alt="Image"></span>
 													<li> Server from Customer</li>
+													<li>*Plus 18% GST Taxes</li>
 												</ul>
 					
 												<a href="#contact" class="default-btn saas-btn scroll-btn">
