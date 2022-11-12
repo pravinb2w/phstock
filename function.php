@@ -7,7 +7,7 @@ require 'vendor/autoload.php';
 if( isset( $_POST ) && !empty( $_POST ) ) {
     extract($_REQUEST);
 
-    $mail = new PHPMailer(true);
+    $mail = new PHPMailer();
 
     $subject_title = 'You have received new enquiry';
     $body_message  = '<table>';
@@ -18,7 +18,7 @@ if( isset( $_POST ) && !empty( $_POST ) ) {
     $body_message  .= '<tr>Message: '.$message.'</tr>';
     
     try {
-        $mail->SMTPDebug = 2;									
+        $mail->SMTPDebug = 1;									
         $mail->isSMTP();											
         $mail->Host	 = 'smtp.gmail.com';					
         $mail->SMTPAuth = true;							
@@ -35,7 +35,7 @@ if( isset( $_POST ) && !empty( $_POST ) ) {
         $mail->Body = $body_message;
         // $mail->AltBody = 'Body in plain text for non-HTML mail clients';
         $mail->send();
-        // echo "Mail has been sent successfully!";
+        echo "success";
     } catch (Exception $e) {
         // echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
     }
