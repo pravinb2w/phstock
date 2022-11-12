@@ -1325,7 +1325,7 @@
 
 					 <div class="col-lg-4 col-md-6">
 						<div class="single-footer-widget">
-							 <div style="width: 100%"><iframe width="100%" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=450&amp;hl=en&amp;q=No:%20W5,%205th%20Main%20Road,%20Anna%20Nagar,%20Chennai%20-%20600040+(My%20Business%20Name)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" loading="lazy"></iframe></div>
+							 <div style="width: 100%"><iframe width="100%" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=450&amp;hl=en&amp;q=No:%20W5,%205th%20Main%20Road,%20Anna%20Nagar,%20Chennai%20-%20600040+(My%20Business%20Name)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" loading="lazy"></iframe></div>
 						</div>
 					</div>
 
