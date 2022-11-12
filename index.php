@@ -295,7 +295,19 @@
 											Monthly
 										</a>
 									</li>
+<li>
+										<a href="#">
+											Quaterly
 
+										</a>
+									</li>
+<li>
+										<a href="#">
+											Half-yearly
+
+
+										</a>
+									</li>
 									<li>
 										<a href="#">
 											Yearly
@@ -314,7 +326,8 @@
 												<h3>Starter</h3>
 					
 												<div class="price">
-													<h2>$29</h2>
+													<h2>₹2999
+</h2>
 													<span>Per Month</span>
 												</div>
 					
@@ -373,7 +386,7 @@
 													<li>5GB Server Space</li>
 												</ul>
 					
-												<a href="#" class="default-btn">
+												<a href="#contact" class="default-btn">
 													Read more
 												</a>
 											</div>
@@ -384,7 +397,7 @@
 												<h3>Economy</h3>
 					
 												<div class="price">
-													<h2>$49</h2>
+													<h2>₹4999</h2>
 													<span>Per Month</span>
 												</div>
 					
@@ -443,7 +456,7 @@
 													<li>10GB Server Space</li>
 												</ul>
 					
-												<a href="#" class="default-btn">
+												<a href="#Contact" class="default-btn">
 													Read more
 												</a>
 					
@@ -456,7 +469,7 @@
 												<h3>Premium</h3>
 					
 												<div class="price">
-													<h2>$79</h2>
+													<h2>₹14999</h2>
 													<span>Per Month</span>
 												</div>
 					
@@ -515,7 +528,7 @@
 													<li> 20GB Server Space</li>
 												</ul>
 					
-												<a href="#" class="default-btn">
+												<a href="#Contact" class="default-btn">
 													Read more
 												</a>
 											</div>
@@ -525,7 +538,8 @@
 												<h3>Enterprise</h3>
 					
 												<div class="price">
-													<h2>$79</h2>
+													<h2>₹24999
+</h2>
 													<span>Per Month</span>
 												</div>
 					
@@ -584,7 +598,7 @@
 													<li> Server from Customer</li>
 												</ul>
 					
-												<a href="#" class="default-btn">
+												<a href="#Contact" class="default-btn">
 													Read more
 												</a>
 											</div>
@@ -596,11 +610,11 @@
 									<div class="row">
 										<div class="col-lg-3 col-sm-6">
 											<div class="single-pricing">
-												<h3>Started</h3>
+												<h3>Starter</h3>
 					
 												<div class="price">
-													<h2>$39</h2>
-													<span>Per yearly</span>
+													<h2>$35988</h2>
+													<span>Per year</span>
 												</div>
 					
 												<ul class="text-center">
@@ -658,7 +672,7 @@
 													<li>5GB Server Space</li>
 												</ul>
 					
-												<a href="#" class="default-btn">
+												<a href="#Contact" class="default-btn">
 													Read more
 												</a>
 											</div>
@@ -669,8 +683,8 @@
 												<h3>Economy</h3>
 					
 												<div class="price">
-													<h2>$79</h2>
-													<span>Per yearly</span>
+													<h2>$59988</h2>
+													<span>Per year</span>
 												</div>
 					
 												<ul>
@@ -728,7 +742,7 @@
 													<li>10GB Server Space</li>
 												</ul>
 					
-												<a href="#" class="default-btn">
+												<a href="#Contact" class="default-btn">
 													Read more
 												</a>
 					
@@ -741,8 +755,8 @@
 												<h3>Premium</h3>
 					
 												<div class="price">
-													<h2>$99</h2>
-													<span>Per yearly</span>
+													<h2>$179988</h2>
+													<span>Per year</span>
 												</div>
 					
 												<ul>
@@ -800,7 +814,7 @@
 													<li> 20GB Server Space</li>
 												</ul>
 					
-												<a href="#" class="default-btn">
+												<a href="#Contact" class="default-btn">
 													Read more
 												</a>
 											</div>
@@ -811,8 +825,8 @@
 												<h3>Enterprise</h3>
 					
 												<div class="price">
-													<h2>$79</h2>
-													<span>Per Month</span>
+													<h2>Contact Sales</h2>
+													<span>for best price</span>
 												</div>
 					
 												<ul>
@@ -870,7 +884,7 @@
 													<li> Server from Customer</li>
 												</ul>
 					
-												<a href="#" class="default-btn">
+												<a href="#Contact" class="default-btn">
 													Read more
 												</a>
 											</div>
@@ -1045,7 +1059,7 @@
 	
 							<h2>
 								<span class="odometer" data-count="200000">00</span>
-								<span class="target">%</span>
+								<span class="target">+</span>
 							</h2>
 	
 							<p>Members</p>
