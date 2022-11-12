@@ -1294,7 +1294,7 @@
 		<section class="footer-area saas-footer-area pt-100 pb-70">
 			<div class="container">
 				<div class="row">
-					<div class="col-lg-3 col-md-6">
+					<div class="col-lg-4 col-md-6">
 						<div class="single-footer-widget">
 							<a href="#">
 								<img src="assets/img/saas/logo.png" alt="Image">
@@ -1304,7 +1304,7 @@
 						</div>
 					</div>
 
-					<div class="col-lg-3 col-md-6">
+					<div class="col-lg-4 col-md-6">
 						<div class="single-footer-widget">
 							<h3>Contact us</h3>
 							
@@ -1318,7 +1318,7 @@
 								<li>
 									<a href="tel:9962046497">9962046497</a>									 
 								</li>
-								<li>WORK HOURS: Mon - Sat: 08 Am - 6 Pm</li>
+								<li>Mon - Sat: 08:00 AM - 6:00 PM</li>
 							</ul>
 						</div>
 					</div>
