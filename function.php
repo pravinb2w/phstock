@@ -25,8 +25,8 @@ if( isset( $_POST ) && !empty( $_POST ) ) {
         $mail->SMTPSecure = 'tls';							
         $mail->Port	 = 587;
     
-        $mail->setFrom('duraibytes@gmail.com', 'Phoenix');		
-        $mail->addAddress($email, $name);
+        $mail->setFrom('help@info.com', 'HelpDesk');		
+        $mail->addAddress('duraibytes@gmail.com', 'Phoenix');
         
         $mail->isHTML(true);								
         $mail->Subject = $subject_title;
