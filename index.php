@@ -1300,7 +1300,7 @@
 								<img src="assets/img/saas/logo.png" alt="Image">
 							</a>
 
-							<p>Lorem ipsum dolor sit amet, consec tetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua tetur adipiscing elit.</p>
+							<p>Phoenix Technologies is the best CRM development company in Chennai. We have offer customized CRM and website design solutions to bring the client's products and services. Our objective is to provide quality and customized CRM given time frame. We can provide all the types business CRM, Website Landing Pages and other services that are needed in today’s world.</p>
 						</div>
 					</div>
 
@@ -1310,14 +1310,13 @@
 							
 							<ul class="address">
 								<li>
-									6890 Blvd, The Bronx, NY 1058 New York, USA
+									No: W5, 5th Main Road, Anna Nagar, Chennai - 600040
 								</li>
 								<li>
-									<a href="mailto:hello@esit.com">hello@esit.com</a>
+									<a href="mailto:phoenixtechnologies2022@gmail.com">phoenixtechnologies2022@gmail.com</a>
 								</li>
 								<li>
-									<a href="tel:+1-(514)-321-4567">+1 (514) 321-4567</a>
-									<a href="tel:+1-(514)-123-4567">+1 (514) 123-4567</a>
+									<a href="tel:9962046497">9962046497</a>									 
 								</li>
 							</ul>
 						</div>
