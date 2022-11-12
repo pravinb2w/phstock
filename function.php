@@ -1,11 +1,13 @@
 <?php
-error_reporting(0);
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\Exception;
+error_reporting(1);
 require 'vendor/autoload.php';
  
 if( isset( $_POST ) && !empty( $_POST ) ) {
     extract($_REQUEST);
 
-    $mail = new PHPMailer;
+    $mail = new PHPMailer(true);
 
     $subject_title = 'You have received new enquiry';
     $body_message  = '<table>';
@@ -33,9 +35,9 @@ if( isset( $_POST ) && !empty( $_POST ) ) {
         $mail->Body = $body_message;
         // $mail->AltBody = 'Body in plain text for non-HTML mail clients';
         $mail->send();
-        echo "Mail has been sent successfully!";
+        // echo "Mail has been sent successfully!";
     } catch (Exception $e) {
-        echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
+        // echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
     }
 }
 
