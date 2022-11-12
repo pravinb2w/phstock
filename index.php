@@ -54,7 +54,7 @@
         <nav class="navbar navbar-expand-lg saas-navbar">
            	<div class="container-fluid">
 				<a class="navbar-brand" href="#">
-					<img src="assets/img/saas/logo.png" alt="image">
+					<img src="assets/img/saas/logo.png" style="width: 35%;" alt="image">
 				</a>
 
 				<button class="navbar-toggler menu-icon" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
