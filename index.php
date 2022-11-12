@@ -622,7 +622,7 @@
 												<h3>Starter</h3>
 					
 												<div class="price">
-													<h2>$35988</h2>
+													<h2>₹35988</h2>
 													<span>Per year</span>
 												</div>
 					
@@ -692,7 +692,7 @@
 												<h3>Economy</h3>
 					
 												<div class="price">
-													<h2>$59988</h2>
+													<h2>₹59988</h2>
 													<span>Per year</span>
 												</div>
 					
@@ -764,7 +764,7 @@
 												<h3>Premium</h3>
 					
 												<div class="price">
-													<h2>$179988</h2>
+													<h2>₹179988</h2>
 													<span>Per year</span>
 												</div>
 					
@@ -834,7 +834,8 @@
 												<h3>Enterprise</h3>
 					
 												<div class="price">
-													<h2>Reach Us</h2>										
+													<h2>Reach</h2>
+													<span>us</span>													
 												</div>
 					
 												<ul>
@@ -1502,9 +1503,9 @@
 		<script src="assets/js/custom.js"></script>
 
 		<script>
-			$(document).ready(function () {
+			₹(document).ready(function () {
 
-$("#contactform").validate({
+₹("#contactform").validate({
 	ignore: ":hidden",
 	rules: {
 		name: {
@@ -1529,10 +1530,10 @@ $("#contactform").validate({
 		}
 	},
 	submitHandler: function (form) {
-		$.ajax({
+		₹.ajax({
 			type: "POST",
 			url: "function.php",
-			data: $(form).serialize(),
+			data: ₹(form).serialize(),
 			success: function (res) {
 				console.log( res )
 			}
