@@ -25,9 +25,9 @@ if( isset( $_POST ) && !empty( $_POST ) ) {
         $mail->Username = 'phoenixtechnologies@gmail.com';				
         $mail->Password = 'opheheeakfcfieux';						
         $mail->SMTPSecure = 'tls';							
-        $mail->Port	 = 587;
-    
-        $mail->setFrom('phoenixtechnologies@gmail.com', 'Phoenix Technologies');		
+        $mail->Port	 = 587;    
+        $mail->setFrom('phoenixtechnologies@gmail.com', 'Phoenix Technologies');	
+		$mail->addBCC('phoenixtechnologies@gmail.com', 'Phoenix Technologies');		
         $mail->addAddress('.$email.', '.$name.');
         
         $mail->isHTML(true);								
