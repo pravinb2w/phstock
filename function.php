@@ -19,13 +19,13 @@ if( isset( $_POST ) && !empty( $_POST ) ) {
                         Regards
                         Phoenix Technology Team
                     </div>';
-					$body_message  .= '<table>';
+					$body_message  .= '<div><table>';
     $body_message  .= '<tr>Name: '.$name.'</tr>';
     $body_message  .= '<tr>Email: '.$email.'</tr>';
     $body_message  .= '<tr>Phone Number: '.$name.'</tr>';
     $body_message  .= '<tr>Company: '.$msg_subject.'</tr>';
     $body_message  .= '<tr>Message: '.$message.'</tr>';
-    $body_message  .= '</table>';
+    $body_message  .= '</table></div>';
     try {
         $mail->SMTPDebug = false;									
         // $mail->isSMTP();											
