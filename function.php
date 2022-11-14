@@ -13,11 +13,7 @@ if( isset( $_POST ) && !empty( $_POST ) ) {
 	
     $body_message .= '<div>
                         <div>Dear '.$name.',</div>
-                        <div>Thanks for your enquiry the product. Our sales team will get back to shortly</div>
-                        <br>
-                        
-                        Regards
-                        Phoenix Technology Team
+                        <div>Thanks for your enquiry the product. Our sales team will get back to shortly</div>                        
                     </div>';
 					$body_message  .= '<div><table>';
     $body_message  .= '<tr>Name: '.$name.'</tr>';
@@ -26,6 +22,12 @@ if( isset( $_POST ) && !empty( $_POST ) ) {
     $body_message  .= '<tr>Company: '.$msg_subject.'</tr>';
     $body_message  .= '<tr>Message: '.$message.'</tr>';
     $body_message  .= '</table></div>';
+	  $body_message .= '<div>
+                        <br>
+                        
+                        Regards
+                        Phoenix Technology Team
+                    </div>';
     try {
         $mail->SMTPDebug = false;									
         // $mail->isSMTP();											
