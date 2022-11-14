@@ -11,7 +11,7 @@ if( isset( $_POST ) && !empty( $_POST ) ) {
 
     $subject_title = 'Sales Enquiry';
 	
-    $body_message .== '<div>
+    $body_message .= '<div>
                         <div>Dear '.$name.',</div>
                         <div>Thanks for your enquiry the product. Our sales team will get back to shortly</div>
                         <br>
