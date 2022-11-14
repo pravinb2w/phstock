@@ -19,7 +19,8 @@ if( isset( $_POST ) && !empty( $_POST ) ) {
     $body_message  .= '<tr><b>Name:</b> '.$name.'</tr>';
     $body_message  .= '<tr><b>Email:</b> '.$email.'</tr>';
     $body_message  .= '<tr><b>Phone Number:</b> '.$name.'</tr>';
-    $body_message  .= '<tr><b>Company:</b> '.$msg_subject.'</tr>';
+	$body_message  .= '<tr><b>Package:</b> '.$msg_subject.'</tr>';
+    $body_message  .= '<tr><b>Company:</b> '.$product.'</tr>';
     $body_message  .= '<tr><b>Message:</b> '.$message.'</tr>';
     $body_message  .= '</table></div>';
 	  $body_message .= '<div>

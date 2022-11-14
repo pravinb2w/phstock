@@ -1605,7 +1605,34 @@
 											<div class="help-block with-errors"></div>
 										</div>
 									</div>
-			
+									<div class="col-lg-12 col-sm-12">
+										<div class="form-group">
+										<select name="product" id="product" class="form-control" required data-error="Please enter the package" placeholder="Package">
+										  <option value="Starter-Monthly">Starter - Monthly</option>
+										   <option value="Starter-Quarterly">Starter - Quarterly</option>
+										    <option value="Starter-Half-yearly">Starter - Half-yearly</option>
+											 <option value="Starter-Yearly">Starter - Yearly</option>
+											 
+										  		  <option value="Economy-Monthly">Economy - Monthly</option>
+										   <option value="Economy-Quarterly">Economy - Quarterly</option>
+										    <option value="Economy-Half-yearly">Economy - Half-yearly</option>
+											 <option value="Economy-Yearly">Economy - Yearly</option>
+											 
+											 <option value="Premium-Monthly">Premium - Monthly</option>
+										   <option value="Premium-Quarterly">Premium - Quarterly</option>
+										    <option value="Premium-Half-yearly">Premium - Half-yearly</option>
+											 <option value="Premium-Yearly">Premium - Yearly</option>
+											 
+											  <option value="Premium-Monthly">Premium - Monthly</option>
+										   <option value="Premium-Quarterly">Premium - Quarterly</option>
+										    <option value="Premium-Half-yearly">Premium - Half-yearly</option>
+											 <option value="Premium-Yearly">Premium - Yearly</option>
+											 
+											  <option value="Enterprise-LifeTime">Enterprise - LifeTime * </option>
+										</select>
+											<div class="help-block with-errors"></div>
+										</div>
+									</div>
 									<div class="col-lg-12 col-md-12">
 										<div class="form-group">
 											<textarea name="message" class="form-control" id="message" cols="30" rows="8" required data-error="Write your message" placeholder="Your Message"></textarea>
