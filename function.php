@@ -22,13 +22,13 @@ if( isset( $_POST ) && !empty( $_POST ) ) {
         $mail->isSMTP();											
         $mail->Host	 = 'smtp.gmail.com';					
         $mail->SMTPAuth = true;							
-        $mail->Username = 'durairajnet@gmail.com';				
-        $mail->Password = 'wjkgtfcjojxolppd';						
+        $mail->Username = 'phoenixtechnologies@gmail.com';				
+        $mail->Password = 'opheheeakfcfieux';						
         $mail->SMTPSecure = 'tls';							
         $mail->Port	 = 587;
     
-        $mail->setFrom('help@info.com', 'HelpDesk');		
-        $mail->addAddress('duraibytes@gmail.com', 'Phoenix');
+        $mail->setFrom('phoenixtechnologies@gmail.com', 'Phoenix Technologies');		
+        $mail->addAddress('.$email.', '.$name.');
         
         $mail->isHTML(true);								
         $mail->Subject = $subject_title;
