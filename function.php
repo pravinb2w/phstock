@@ -10,7 +10,8 @@ if( isset( $_POST ) && !empty( $_POST ) ) {
     $mail = new PHPMailer();
 
     $subject_title = 'Sales Enquiry';
-    $body_message = '<div>
+	
+    $body_message .== '<div>
                         <div>Dear '.$name.',</div>
                         <div>Thanks for your enquiry the product. Our sales team will get back to shortly</div>
                         <br>
@@ -18,7 +19,13 @@ if( isset( $_POST ) && !empty( $_POST ) ) {
                         Regards
                         Phoenix Technology Team
                     </div>';
-    
+					$body_message  .= '<table>';
+    $body_message  .= '<tr>Name: '.$name.'</tr>';
+    $body_message  .= '<tr>Email: '.$email.'</tr>';
+    $body_message  .= '<tr>Phone Number: '.$name.'</tr>';
+    $body_message  .= '<tr>Company: '.$msg_subject.'</tr>';
+    $body_message  .= '<tr>Message: '.$message.'</tr>';
+    $body_message  .= '</table>';
     try {
         $mail->SMTPDebug = false;									
         // $mail->isSMTP();											
