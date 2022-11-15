@@ -11,10 +11,8 @@ if( isset( $_POST ) && !empty( $_POST ) ) {
 
     $subject_title = 'Sales Enquiry';
 	
-    $body_message .= '<div>
-                        <div>Dear '.$name.',</div>
-                        <div>Thanks for your enquiry the product. Our sales team will get back to shortly <br></div>                        
-                    </div>';
+    $body_message .= '<div>Dear '.$name.',</div>
+                        <div>Thanks for your enquiry the product. Our sales team will get back to shortly <br></div>';
 					$body_message  .= '<div><table>';
     $body_message  .= '<tr><td><b>Name:</b><td><td> '.$name.'</td></tr>';
     $body_message  .= '<tr><td><b>Email:</b><td><td> '.$email.'</td></tr>';
@@ -30,7 +28,7 @@ if( isset( $_POST ) && !empty( $_POST ) ) {
                         <b>Phoenix Technology Team</b>
                     </div>';
     try {
-        $mail->SMTPDebug = false;									
+        $mail->SMTPDebug = true;									
         // $mail->isSMTP();											
         $mail->Host	 = 'sendmail';					
         $mail->SMTPAuth = true;							
