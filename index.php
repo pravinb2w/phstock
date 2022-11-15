@@ -1607,7 +1607,7 @@
 									</div>
 									<div class="col-lg-12 col-sm-12">
 										<div class="form-group">
-										<select name="product" id="product" class="form-control" required data-error="Please enter the package" placeholder="Package">
+										<select name="package" id="package" class="form-control" required data-error="Please enter the package" placeholder="Package">
 										 <option selected value="">Select</option>
 										  <option value="Starter-Monthly">Starter - Monthly</option>
 										   <option value="Starter-Quarterly">Starter - Quarterly</option>
