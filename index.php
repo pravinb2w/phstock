@@ -1576,7 +1576,7 @@
 					<div class="col-lg-6">
 						<div class="contact-form">
 							<h2>Contact us to build the right product</h2>
-							<form id="contactForm">
+							<form id="contactForm"  action="#" method="post">
 								<div class="row">
 									<div class="col-lg-6 col-sm-6">
 										<div class="form-group">
@@ -1928,6 +1928,9 @@ $("#contactform").validate({
         	maxlength:10
 		},
 		subject: {
+			required: true
+		},
+		packages: {
 			required: true
 		},
 		message: {
