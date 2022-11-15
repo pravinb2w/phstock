@@ -46,8 +46,10 @@ if( isset( $_POST ) && !empty( $_POST ) ) {
         $mail->Subject = $subject_title;
         $mail->Body = $body_message;
         // $mail->AltBody = 'Body in plain text for non-HTML mail clients';
-        $mail->send();
-        echo "success";
+        if($mail->send())
+			        echo "success";
+		else
+					echo "fail";
     } catch (Exception $e) {
         echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
     }
