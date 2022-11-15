@@ -7,6 +7,7 @@ require 'vendor/autoload.php';
 if( isset( $_POST ) && !empty( $_POST ) ) {
     extract($_REQUEST);
 	$selectdata = $_POST['package'];
+	echo $selectdata;die;
     $mail = new PHPMailer();
 
     $subject_title = 'Sales Enquiry';
