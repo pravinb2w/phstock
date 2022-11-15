@@ -14,7 +14,7 @@ if( isset( $_POST ) && !empty( $_POST ) ) {
     $subject_title = 'Sales Enquiry';
 	
     $body_message .= '<div>Dear '.$name.',</div>
-                        <div>Thanks for your enquiry the product. Our sales team will get back to shortly <br><br></div>';
+                        <div>Thanks for your enquiry. Our sales team will get back to shortly <br><br></div>';
 					$body_message  .= '<div><table>';
     $body_message  .= '<tr><td><b>Name:</b><td><td> '.$name.'</td></tr>';
     $body_message  .= '<tr><td><b>Email:</b><td><td> '.$email.'</td></tr>';
