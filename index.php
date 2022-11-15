@@ -1609,27 +1609,27 @@
 										<div class="form-group">
 										<select name="packages" id="packages" class="form-control" required data-error="Please enter the package" placeholder="Package">
 										 <option value="">Select</option>
-										  <option value="Starter-Monthly">Starter - Monthly</option>
-										   <option value="Starter-Quarterly">Starter - Quarterly</option>
-										    <option value="Starter-Half-yearly">Starter - Half-yearly</option>
-											 <option value="Starter-Yearly">Starter - Yearly</option>
+										  <option value="Starter_Monthly">Starter - Monthly</option>
+										   <option value="Starter_Quarterly">Starter - Quarterly</option>
+										    <option value="Starter_Half_yearly">Starter - Half-yearly</option>
+											 <option value="Starter_Yearly">Starter - Yearly</option>
 											 
-										  		  <option value="Economy-Monthly">Economy - Monthly</option>
-										   <option value="Economy-Quarterly">Economy - Quarterly</option>
-										    <option value="Economy-Half-yearly">Economy - Half-yearly</option>
-											 <option value="Economy-Yearly">Economy - Yearly</option>
+										  		  <option value="Economy_Monthly">Economy - Monthly</option>
+										   <option value="Economy_Quarterly">Economy - Quarterly</option>
+										    <option value="Economy_Half_yearly">Economy - Half-yearly</option>
+											 <option value="Economy_Yearly">Economy - Yearly</option>
 											 
-											 <option value="Premium-Monthly">Premium - Monthly</option>
-										   <option value="Premium-Quarterly">Premium - Quarterly</option>
-										    <option value="Premium-Half-yearly">Premium - Half-yearly</option>
-											 <option value="Premium-Yearly">Premium - Yearly</option>
+											 <option value="Premium_Monthly">Premium - Monthly</option>
+										   <option value="Premium_Quarterly">Premium - Quarterly</option>
+										    <option value="Premium_Half_yearly">Premium - Half-yearly</option>
+											 <option value="Premium_Yearly">Premium - Yearly</option>
 											 
-											  <option value="Premium-Monthly">Premium - Monthly</option>
-										   <option value="Premium-Quarterly">Premium - Quarterly</option>
-										    <option value="Premium-Half-yearly">Premium - Half-yearly</option>
-											 <option value="Premium-Yearly">Premium - Yearly</option>
+											  <option value="Premium_Monthly">Premium - Monthly</option>
+										   <option value="Premium_Quarterly">Premium - Quarterly</option>
+										    <option value="Premium_Half_yearly">Premium - Half-yearly</option>
+											 <option value="Premium_Yearly">Premium - Yearly</option>
 											 
-											  <option value="Enterprise-LifeTime">Enterprise - LifeTime * </option>
+											  <option value="Enterprise_LifeTime">Enterprise - LifeTime * </option>
 										</select>
 											<div class="help-block with-errors"></div>
 										</div>
