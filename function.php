@@ -28,7 +28,7 @@ if( isset( $_POST ) && !empty( $_POST ) ) {
                         <b>Phoenix Technology Team</b>
                     </div>';
     try {
-        $mail->SMTPDebug = true;									
+        $mail->SMTPDebug = false;									
         // $mail->isSMTP();											
         $mail->Host	 = 'sendmail';					
         $mail->SMTPAuth = true;							
